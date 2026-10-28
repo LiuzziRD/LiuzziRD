@@ -44,7 +44,7 @@ Foco em:
 ## 🎓 Formação
 
 Ciência da Computação – UNINOVE  
-3º semestre  
+4º semestre  
 Previsão de conclusão: 2028
 
 ---
